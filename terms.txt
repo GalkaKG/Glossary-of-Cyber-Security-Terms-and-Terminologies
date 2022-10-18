@@ -1,0 +1,211 @@
+Advanced Persistent Threat (APT)
+An ongoing set of stealthy and hidden attack processes and threats designed to infiltrate a system or network. Multiple threat types (e.g. malware and phishing), as well as different attack vectors (e.g. email and social engineering) are often used.
+
+Adware
+A type of malicious software that installs or renders advertising on a computing system to generate revenue. Advertisements often appear as pop-up windows that the user is unable to close. Sometimes adware is designed with multiple objectives. For example, in addition to advertising, adware may include spyware that observes the user’s computing activities without his knowledge or the adware may include stolen certificates that deactivate the system’s antivirus or antimalware protection. Adware can affect any computing system, including computers, tablets, and mobile phones.
+
+Antivirus Software
+A type of software that can identify and detect different types of malicious code in order to prevent malware incidents.
+
+Authentication
+A process for verifying the identity and integrity of entities and data sources.
+
+Backdoor
+Malware creates a hidden entrance or method to bypass traditional security within a system, device, computer, or software.
+
+Bad Actor 
+Another name often used instead of cybercriminal or hacker.
+
+Black Hat
+A term used for attackers that break into one’s network without consent in order to steal information or perform some other malicious activity.
+
+Bot
+An Internet-connected individual device within the botnet is called a bot. A bot is most often a computer, but a smartphone, tablet, or Internet of Things device (such as a router or Internet-connected refrigerator) can also be part of a botnet. A bot receives operational instructions from a command and control server, directly from the botmaster, or sometimes from other bots within the network.
+
+Botmaster 
+The botnet’s operator (also sometimes called a botnet controller or bot herder). This individual remotely controls the botnet, issuing commands to the command and control (C&C) server, or to individual bots within the network. A botmaster’s name and location is heavily obfuscated to prevent identification and prosecution by law enforcement.
+
+Botnet
+A botnet is a network of Internet-connected and malware-infected devices, which have been co-opted by cybercriminals. It is used to distribute spam and malware, or launch distributed denial-of-service attacks. Botnets can be comprised of as many as 500,000 to 1,000,000 devices, and send up to 60 billion spam emails in a day. The term ‘botnet’ derives from the combination of the words “roBOT NETwork.” Botnets can be used for click-fraud, special event ticketing, online polls, and social media manipulation, as well as the distribution of spam and phishing emails.
+
+Business Email Compromise (BEC) 
+A type of phishing attack intended to scam organizations out of money through the impersonation of executives. First, criminals gain access to a corporate system through a spear-phishing attack or malware. The criminal then researches the organization’s vendors, finance systems, and the executive’s email style and schedule. Often when the executive is away, the criminals send a fake email from the executive to a targeted employee (usually in finance), with a request for an immediate wire transfer to a trusted vendor. However, the wire transfer is, in actuality being directed to an account controlled by a criminal group.
+
+Click-fraud
+Imagine you earn money for every Google AdSense advertisement that gets clicked on your website. If you’re a cybercriminal and you own the website, it makes sense to employ a click-fraud botnet, where advertising “clicks” are automated and you can increase your AdSense money making potential.
+
+Clickjacking
+A hacking tactic in which a victim is tricked into clicking on a link or button that is disguised as harmless.
+
+Clone Phishing
+A phishing attack in which the ‘phisher’ uses a genuine, previously delivered email to create an identical (or almost identical) email containing similar content, attachment, recipient and sender email address. A fraudulent link or attachment replaces the original one. Because the email appears to come from a legitimate source, this spoofed email is used to gain trust with the victim.
+
+Cloud
+Technology that allows users to access files through the internet anywhere in the world.
+
+Cloud Computing
+On-demand and remote network access of internet resources like servers, data storage, databases, and software.
+
+Command and Control Server
+Often abbreviated as C&C, a command and control server is the centralized computer that issues commands to and receives information back from the bots. Command and control infrastructure frequently consists of several servers and other technical components. Most botnets use a client-server architecture.
+
+Crypter 
+Malware containing encryption to obfuscate it from security.
+
+Dark Web 
+An Internet-based network of “darknets” or “overlay networks” which consist of web content that can be accessed only with specific network configurations, software, or authorization, often using non-standard communications protocols and ports. Examples of dark web accessibility tools include Tor, Freenet, and Invisible Internet Project (I2P). Content on the darknet can vary from illegal downloadable versions of movies and television shows to drugs and other criminal activity. The dark web is not indexed by standard Internet search engines, such as Google or Bing.
+
+Data Breach
+A security incident in which protected, confidential, or sensitive data is accessed by an unauthorized individual. Data accessed through a breach may be simply viewed, or copied, stolen, destroyed, or sold to other interested parties. The types of data targeted in a breach can vary from credit card information and social security numbers, to emails, trade secrets and other types of intellectual property, and healthcare information.
+
+Data Loss Prevention
+A set of procedures put in place to prevent sensitive data from leaving a security boundary or getting in the hands of an unauthorized entity. 
+
+Distributed Denial-of-Service (DDoS) Attacks
+Using the computers attached to a botnet, cybercriminals shut down—or deny service—to a victim’s system users by overloading the computational resources of the website or system with data.
+
+Domain 
+A group of computers, devices, or printers that are interconnected and governed as a whole. Domains are often found in workspace environments. 
+
+Domain Generation Algorithm (DGA) 
+Because Command & Control botnet domains are often hardcoded, it is relatively easy for security solutions to find and block them. To avoid this, some botnets use a DGA, which generates so many domain names that it is not possible to block them all. Of course, not all of the domains actually function, but bots are designed to cycle through the list until they get a response and find a functioning one.
+
+Dropper
+Malicious software that installs another type of malware such as a virus or backdoor. Droppers are often designed to avoid detection by traditional antivirus protection solutions or stay hidden from the software by activating at a later stage.
+
+Encryption/Complex Protocol 
+Used in botnet code to obfuscate botnet transmissions. For example, a communications string may have multiple headers and codes which make it very difficult to understand the botnet transmissions. Some bot-driven malware, such as Gameover Zeus Trojan encrypts both malware distribution and C&C communications. In these instances, downloaders install the malware using an SSL connection from a compromised web server. Once the software is installed, the botnet uses encrypted P2P networks to communicate with the C&C servers.
+
+Exploit
+Malware that takes advantage of a software vulnerability to gain access to a computer or system.
+
+Firewall 
+Defensive technology that is either hardware or software-based and used to prevent hackers from entering your network.
+
+Hacker
+A hacker is an individual who uses their computer knowledge to breach a computer system or network. While the term ‘hacker’ can be used to mean a skilled computer professional that uses their talent to access a system for non-criminal purposes, in general, the term ‘hacker’ refers to someone who is breaching a system for criminal intent.
+
+Hacktivist 
+A combination of the words “hacker” and “activist,” a hacktivist attempts to gain access to computer systems and networks to promote a political or social agenda. In the world of cybercrime, hacktivists are often engaging in acts of cyberterrorism.
+
+Internet Relay Chat (IRC) Botnets 
+Internet Relay Chat botnets are among the first generation of botnets to be leveraged for criminal purposes. In an IRC botnet, the bot/computer connects to the IRC as a client and performs automated functions. While IRC bots are easy to create and manage, cybersecurity professionals are typically able to identify the server and botmaster and shut the botnet down. Recently IRC botnets have experienced a small resurgence thanks to certain advancements, such as using multiple command and control servers, which enable cybercriminals to use IRC botnets with less chance of a quick shutdown.
+
+Incident Response
+A set of activities or a workflow required to investigate, contain, and remove a security threat, and then restore the affected environment to normal operations.
+
+Incident Response Plan
+Documented set of procedures used to detect and use in response to a cyber incident.
+
+IP Address  (V4)
+A 32-bit number used as a means of identification of a device on a network.
+
+Keyloggers
+With keylogging software, bots collect information related to specific types of keyboard strokes, such as alpha-numeric/special character sequences associated with certain keywords, such as “bankofamerica.com” or “paypal.com”. If the keylogger is running on thousands of computers connected to the botnet, then the cybercriminal has the ability to quickly harvest sensitive information.
+
+Machine Learning
+The study of complex artificial intelligence (AI) algorithms in relation to automated learning and discovery.
+
+Macro 
+A virus written in a macro language and distributed in a Microsoft Word or Excel file attachment.
+
+Malvertising 
+A combination of the words ‘malicious’ and ‘advertising’, malvertising uses online advertising to spread malware. By inserting malicious advertisements into legitimate advertising networks and websites, bad actors are able to spread malware more quickly and effectively. Because the networks and websites on which malvertising appears are often highly legitimate, victims are easily duped since they do not have to click an email link or visit a compromised website. Clicking on a malicious piece of advertising is not always required, as systems can become infected both pre-click and post-click.
+
+Malware 
+A combination of the words ‘malicious’ and ‘software’, malware is specifically designed to harm a computer, a system, or data. It encompasses several types of malicious tools, including adware, ransomware, scareware, spyware, Trojans, viruses, and worms.
+
+Man-in-the-Middle (MITM) Attack 
+An attack in which a cybercriminal inserts himself between two parties in communication, with the intent of impersonating one or both parties to intercept, send, and receive sensitive or confidential data, such as bank account information, passwords, or documents.
+
+Mitigation
+Using one or more measures or risk-reduction controls to reduce the likelihood of a cybersecurity incident.
+
+Packer 
+Malicious software that is compressed, and when executed, unpacks itself in memory. Packers make reverse engineering of the malware difficult and also help the malware take up a smaller size footprint.
+
+Payload 
+The component of a malicious program that is actually intended to do harm to or perform a malicious action on the system or computing device.
+
+Peer-to-Peer Botnet 
+Peer-to-peer (P2P) botnets use a decentralized network of bots for added protection against takedowns. While P2P botnets can include a C&C server, they may also operate without one and be structured randomly to further obfuscate the botnet and its purpose. While P2P botnets are less likely to be identified, the botmaster cannot easily monitor command delivery and the implementation can be complex.
+
+Pen-Testing 
+A way for hackers to test the security vulnerabilities and flaws of your device. They will often use different tools and techniques to test this out.
+
+Phishing 
+A homophone of the word ‘fishing’, phishing is an attempt to entice a person into providing sensitive or confidential information which can be used or monetized by the phisher. In a phishing scam, cybercriminals distribute electronic content (email or online advertisement) to a series of victims, in which the content is specifically designed to trick the user into engaging in a specific activity, such as clicking a link or responding to the email. The victims, thinking the content is real, provide the phisher with personally sensitive information such as usernames, passwords, banking, financial, and/or credit card details. Methods of phishing distribution include email, online advertising, SMS, and even voicemail.
+
+Protector 
+A component within malware that combines both a packer and a crypter to prevent anyone from reengineering and tampering with the malware.
+
+Ransomware 
+A form of malware, ransomware limits or blocks users from accessing individual files or entire systems until a ransom is paid.
+
+Risk Assessment
+Process of evaluating the state of risk of an organization and using findings to inform decision-making and procedures. 
+
+Risk Management
+Process of identifying, assessing, and analyzing risks within your organization and using controls and continuous monitoring to control risks over time. 
+
+Rootkit 
+Malicious software that enables access to sections of the computer, software, or system that would normally not be accessible. Malware often contains rootkits to allow concealment by modifying the operating system so that the malware remains hidden from the user.
+
+Sniffing 
+Bots can also be used to watch or “sniff” for specific types of text and data passing through a compromised machine, such as usernames and passwords. Sometimes if a machine is infected with malware from several different botnets, the machine can be used to sniff packets from other botnet’s messages, gather key information, and ‘steal’ the botnet.
+
+Snowshoeing 
+Snowshoeing is a form of spam messaging using multiple IP addresses and domains to send junk email to recipients. It is often structured so each IP address distributes a low number of messages so spam filtering technologies don’t recognize and block the messages.
+
+Spear Phishing 
+A targeted phishing attack focused on a specific person or group of people. Corporate executives, celebrities, and government officials are often common targets of spear phishing attacks.
+
+Spoofing
+Falsifying the identity of a source or using a fake IP, email, or MAC address to gain illegal entry into a secure system. 
+
+Spyware 
+Spyware is malicious software that spies on the computer user, capturing keystrokes, emails, documents, or even turning on the video camera. Sometimes embedded in adware.
+
+Steganography 
+Digital steganography is a method of concealing a file, message, image, or video within another file, message, image, or video. Bots use this technology by downloading seemingly innocuous image files that actually contain complex message streams sent by the C&C for use by the bot. The images can be stored on any compromised website or even image-sharing services. This makes detection of such downloads virtually indistinguishable from normal Internet browsing traffic.
+
+Social Engineering 
+In the context of cybercrime, social engineering refers to using psychological manipulation to convince potential victims to engage in a type of activity (such as clicking on a malicious link or document) or divulging sensitive information (such as usernames and passwords).
+
+Threat Vector 
+The method, route, or tool a threat uses to get to the target.
+
+Tor-based Botnets 
+Tor is best known as an anonymous web-based communications tool, directing the Internet traffic of its users through a free, global network of thousands of relays designed to hide the user’s location and usage from any type of surveillance or analysis. Recently, criminals have been using Tor to hide C&C servers, which operate under a common IRC protocol. Because TOR is anonymous, the owner’s identity is hidden. In addition, all Tor traffic is encrypted, so it can’t be blocked by intrusion detection systems, and since there are legitimate uses for Tor, it is impractical for security solutions to block all Tor traffic. There are disadvantages to the Tor network that tend to spill over into botnet operation, including latencies, slowdowns, and unreliability.
+
+Trojan 
+Derived from the ancient Greek tale of the Trojan Horse, in which soldiers hide inside a large wooden horse, in computer parlance a Trojan is a form of non-replicating malicious software that contains hidden functionality. A Trojan typically does not attempt to propagate or inject itself into other files.
+
+Virus 
+A form of malicious software that infects a system or computer and damages or alters the data on the system.
+
+Virtual Private Network (VPN)
+A tool that allows users to secure their network traffic and remain anonymous while surfing the internet by masking the location of your device.
+
+Vishing 
+A combination of the words ‘voice’ and ‘phishing’. Vishing uses social engineering via a phone call to obtain personally sensitive information, such as bank account numbers, pins, or credit card numbers. Typically, the victim receives a call with an automated message from someone claiming to represent a financial institution, internet provider, or technology company. The message may ask the victim to enter an account number or pin. Once entered, the call redirects to an attacker via a voice-over-IP service, who then requests additional personally sensitive information.
+
+Vulnerability 
+A weakness or flaw in a system, network, or software used by a cybercriminal to gain access or breach the system. Vulnerabilities are often the focus of advanced persistent threats.
+
+Watering Hole 
+A type of attack in which the cybercriminal ascertains (usually through observation or guesswork) the websites most commonly frequented by a target individual or organization. The criminal then infects one or more of these websites with malware with the targets eventually getting infected.
+
+Whaling
+A form of spear-phishing focused on senior corporate executives or high-profile individuals, such as those in government. In the case of whaling, email content may take the form of a legal request, customer complaint, or an executive-level issue. The content may request the recipient perform a task, such as providing employee records or sending a wire transfer, or contain malicious links that when clicked and viewed have a highly professional and legitimate look and feel.
+
+Worm
+Malicious software designed to continually propagate itself often using a computer network. May consume excessive system bandwidth as it propagates.
+
+Zero-day Attack 
+A zero-day threat is a type of attack in which a cybercriminal leverages a system, software, or network vulnerability that is otherwise unknown to the public, cybersecurity professionals, and sometimes to the software or system developers.
+
+Zombie 
+Another name for a bot. Because the bot is controlled by an outside computing device or person, it is likened to a fictional ‘zombie’. A botnet is also known as a “zombie army.”
+
+Ready to start protecting yourself from cyber attacks today? Request a demo with Cyren.
