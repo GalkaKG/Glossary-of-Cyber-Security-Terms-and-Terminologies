@@ -3,7 +3,10 @@ An ongoing set of stealthy and hidden attack processes and threats designed to i
 Multiple threat types (e.g. malware and phishing), as well as different attack vectors (e.g. email and social engineering) are often used.
 
 Adware
-A type of malicious software that installs or renders advertising on a computing system to generate revenue. Advertisements often appear as pop-up windows that the user is unable to close. Sometimes adware is designed with multiple objectives. For example, in addition to advertising, adware may include spyware that observes the user’s computing activities without his knowledge or the adware may include stolen certificates that deactivate the system’s antivirus or antimalware protection. Adware can affect any computing system, including computers, tablets, and mobile phones.
+A type of malicious software that installs or renders advertising on a computing system to generate revenue. Advertisements often appear as pop-up windows
+that the user is unable to close. Sometimes adware is designed with multiple objectives. For example, in addition to advertising, adware may include spyware
+that observes the user’s computing activities without his knowledge or the adware may include stolen certificates that deactivate the system’s antivirus or
+antimalware protection. Adware can affect any computing system, including computers, tablets, and mobile phones.
 
 Antivirus Software
 A type of software that can identify and detect different types of malicious code in order to prevent malware incidents.
@@ -213,4 +216,3 @@ A zero-day threat is a type of attack in which a cybercriminal leverages a syste
 Zombie 
 Another name for a bot. Because the bot is controlled by an outside computing device or person, it is likened to a fictional ‘zombie’. A botnet is also known as a “zombie army.”
 
-Ready to start protecting yourself from cyber attacks today? Request a demo with Cyren.
