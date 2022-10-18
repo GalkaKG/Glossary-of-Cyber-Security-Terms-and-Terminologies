@@ -21,10 +21,13 @@ Black Hat
 A term used for attackers that break into one’s network without consent in order to steal information or perform some other malicious activity.
 
 Bot
-An Internet-connected individual device within the botnet is called a bot. A bot is most often a computer, but a smartphone, tablet, or Internet of Things device (such as a router or Internet-connected refrigerator) can also be part of a botnet. A bot receives operational instructions from a command and control server, directly from the botmaster, or sometimes from other bots within the network.
+An Internet-connected individual device within the botnet is called a bot. A bot is most often a computer, but a smartphone, tablet, or Internet of Things device 
+(such as a router or Internet-connected refrigerator) can also be part of a botnet. A bot receives operational instructions from a command and control server,
+directly from the botmaster, or sometimes from other bots within the network.
 
 Botmaster 
-The botnet’s operator (also sometimes called a botnet controller or bot herder). This individual remotely controls the botnet, issuing commands to the command and control (C&C) server, or to individual bots within the network. A botmaster’s name and location is heavily obfuscated to prevent identification and prosecution by law enforcement.
+The botnet’s operator (also sometimes called a botnet controller or bot herder). This individual remotely controls the botnet, issuing commands to the command and control (C&C) server, or to individual bots within the network. A botmaster’s name and location is heavily obfuscated to prevent identification and prosecution by
+law enforcement.
 
 Botnet
 A botnet is a network of Internet-connected and malware-infected devices, which have been co-opted by cybercriminals. It is used to distribute spam and malware, or launch distributed denial-of-service attacks. Botnets can be comprised of as many as 500,000 to 1,000,000 devices, and send up to 60 billion spam emails in a day. The term ‘botnet’ derives from the combination of the words “roBOT NETwork.” Botnets can be used for click-fraud, special event ticketing, online polls, and social media manipulation, as well as the distribution of spam and phishing emails.
@@ -87,7 +90,8 @@ Hacker
 A hacker is an individual who uses their computer knowledge to breach a computer system or network. While the term ‘hacker’ can be used to mean a skilled computer professional that uses their talent to access a system for non-criminal purposes, in general, the term ‘hacker’ refers to someone who is breaching a system for criminal intent.
 
 Hacktivist 
-A combination of the words “hacker” and “activist,” a hacktivist attempts to gain access to computer systems and networks to promote a political or social agenda. In the world of cybercrime, hacktivists are often engaging in acts of cyberterrorism.
+A combination of the words “hacker” and “activist,” a hacktivist attempts to gain access to computer systems and networks to promote a political or social agenda.
+In the world of cybercrime, hacktivists are often engaging in acts of cyberterrorism.
 
 Internet Relay Chat (IRC) Botnets 
 Internet Relay Chat botnets are among the first generation of botnets to be leveraged for criminal purposes. In an IRC botnet, the bot/computer connects to the IRC as a client and performs automated functions. While IRC bots are easy to create and manage, cybersecurity professionals are typically able to identify the server and botmaster and shut the botnet down. Recently IRC botnets have experienced a small resurgence thanks to certain advancements, such as using multiple command and control servers, which enable cybercriminals to use IRC botnets with less chance of a quick shutdown.
