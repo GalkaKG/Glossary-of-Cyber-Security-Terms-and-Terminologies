@@ -1,0 +1,19 @@
+##########################
+## NMAP  Scripting Engine (NSE)
+##########################
+
+##** SCAN ONLY YOUR OWN HOSTS AND SERVERS !!! **##
+## Scanning Networks is your own responsibility ##
+
+
+# searching for NSE scripts
+udatedb 
+locate *.nse
+locate *.nse | wc -l
+locate *vuln*.nse   
+
+# running a full vulnerability scan against a target
+nmap -Pn --script vuln -T4 192.168.0.1
+
+# displaying the help of a NSE script
+nmap -script-help ssh-auth-methods.nse
