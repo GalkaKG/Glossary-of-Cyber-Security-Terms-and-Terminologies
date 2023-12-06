@@ -1,0 +1,20 @@
+##########################
+## ARP Scanning
+##########################
+
+##** SCAN ONLY YOUR OWN HOSTS AND SERVERS !!! **##
+## Scanning Networks is your own responsibility ##
+
+# installing arp-scan and netdiscover
+apt update && apt install arp-scan netdiscover
+
+# scanning the entire LAN of eth0 interface
+ arp-scan --interface eth0 -l
+
+# starting netdiscover in active mode 
+netdiscover
+netdiscover -i wlo1
+# stop it by pressing q or ctrl+c
+
+# starting netdiscover in passive mode on eth0
+netdiscover -i eth0 -p 
